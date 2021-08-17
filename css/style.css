@@ -1,0 +1,191 @@
+.top-color {
+  padding: 15px 150px;
+  background-color: #054ea0;
+}
+.banner-border {
+  display: sticky;
+}
+.header-align {
+  margin-left: 80px;
+}
+.nav-background-color {
+  background-color: #054ea0;
+  padding-right: 90px;
+}
+nav ul {
+  margin-left: 115px;
+  margin-top: 8px;
+}
+nav ul li {
+  list-style: none;
+  display: inline-block;
+}
+nav ul li a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-weight: 400;
+  padding: 15px 20px;
+}
+nav ul li a:hover {
+  background-color: #b8e4fa;
+  color: #2d26a0;
+  padding: 8px 20px;
+  border-radius: 5px;
+}
+.social-reputation-box {
+  width: 95%;
+  box-shadow: 10px 10px 50px lightgray;
+  border-radius: 35px;
+  padding: 3px 3px 30px 25px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.social-reputation-box:hover {
+  box-shadow: 10px 10px 50px #054ea0;
+}
+.social-reputation-box1 {
+  width: 95%;
+  box-shadow: 10px 10px 50px lightgray;
+  border-radius: 35px;
+  padding: 3px 3px 30px 25px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.social-reputation-box1:hover {
+  box-shadow: 10px 10px 50px #b8e4fa;
+}
+
+.social-reputation-box2 {
+  width: 95%;
+  box-shadow: 10px 10px 50px lightgray;
+  border-radius: 35px;
+  padding: 3px 3px 30px 25px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.social-reputation-box2:hover {
+  box-shadow: 10px 10px 50px #b8e4fa;
+}
+.align-sup {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icons {
+  margin-left: 20px;
+  font-size: 20px;
+}
+.icons a i {
+  background-color: #eaeaea;
+  margin-left: 10px;
+  padding: 10px 10px;
+  border-radius: 50%;
+}
+#linkedin:hover {
+  background-color: #1ea1f1;
+  color: white;
+}
+
+.social-reputation-box-round {
+  box-shadow: 10px 10px 50px lightgray;
+  border-radius: 35px;
+}
+.social-reputation-box-round:hover {
+  box-shadow: 10px 10px 50px skyblue;
+}
+.footer-icon {
+  margin-left: 20px;
+  font-size: 20px;
+}
+.footer-icon a i {
+  background-color: #eaeaea;
+  margin-left: 10px;
+  padding: 10px 10px;
+  border-radius: 50%;
+}
+
+#instagram {
+  color: #d8666d;
+}
+#facebook {
+  color: #0b84ed;
+}
+#twitter {
+  color: #1ea1f1;
+}
+#youtube {
+  color: #ff0102;
+}
+
+#instagram:hover {
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b53e97+9,b53e97+25,f88a42+100 */
+  background: #b53e97;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #b53e97 9%, #b53e97 25%, #f88a42 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    top,
+    #b53e97 9%,
+    #b53e97 25%,
+    #f88a42 100%
+  );
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #b53e97 9%, #b53e97 25%, #f88a42 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b53e97', endColorstr='#f88a42', GradientType=0);
+  /* IE6-9 */
+
+  color: white;
+}
+
+#facebook:hover {
+  background-color: #0b84ed;
+  color: white;
+}
+
+#twitter:hover {
+  background-color: #1ea1f1;
+  color: white;
+}
+
+#youtube:hover {
+  background-color: #ff0102;
+  color: white;
+}
+
+.code-background {
+  background-color: #010e30;
+}
+
+.extra-margin-code {
+  margin-left: 250px;
+  margin-right: 250px;
+}
+.inside-code-section {
+  margin-left: 50px;
+  margin-top: 40px;
+}
+.extra-margin {
+  margin-left: 30px;
+}
+
+.h1-social-reputation {
+  color: black;
+  padding-bottom: 20px;
+}
+
+.social-reputation-box {
+  width: 90%;
+  box-shadow: 10px 10px 50px lightgray;
+  border-radius: 35px;
+  padding: 5px 3px 30px 25px;
+  margin: auto;
+  margin-top: 270px;
+  margin-bottom: 100px;
+}
+.social-reputation-box:hover {
+  box-shadow: 10px 10px 50px #0b84ed;
+}
